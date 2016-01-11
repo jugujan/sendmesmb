@@ -1,0 +1,13 @@
+smbserver=name_of_cifs_server
+delim=;
+depthcrawl=99
+imapdir=inbox
+imaphost=myimaphost.domain.org
+imapusername=name@domain.org
+imappassword=secret
+mailhost=smtp.domain.org
+imapdebug=false
+debug=false
+
+[users]
+lucie=C:lucie123:RmHGV6ip/4j6fCa=
