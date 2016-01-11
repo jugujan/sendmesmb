@@ -12,9 +12,9 @@ c - The user reply a request to give the file.
 d - The user receive the file attached or a link on a web server.
 
 A mailbox on the mail server is dedicated to receive all the users requests.
-The request are CHERCHE or DONNE.
-CHERCHE mean search a file in the cifs server.
-DONNE mean give me the file.
+The request are action1 and action2 parameters that you can localized in the sendme.props file.
+SEARCH mean search a file in the cifs server.
+SEND mean give me the file.
 It only take into account the messages with the flag unread. Messages are flagged read and kept on the imap server.
 
 How to setup SendMeSmb ?

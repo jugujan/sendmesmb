@@ -8,6 +8,8 @@ imappassword=secret
 mailhost=smtp.domain.org
 imapdebug=false
 debug=false
+action1=SEARCH
+action2=SEND
 
 [users]
 lucie=C:lucie123:RmHGV6ip/4j6fCa=
